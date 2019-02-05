@@ -1,3 +1,17 @@
+foo
+.metadata
+.idea
+.c9
+*~
+*#
+*.js.map
+nohup.out
+.expo
+platforms
+Thumbs.db
+*.zip
+npm-debug.log# IDE Files
+
 # Logs
 logs
 *.log
