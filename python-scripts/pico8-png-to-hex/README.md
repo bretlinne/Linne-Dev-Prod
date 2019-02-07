@@ -3,7 +3,7 @@
 
 [Pico-8 Website](https://www.lexaloffle.com/pico-8.php "Go get Pico-8--only $15!")
 
-<---alternative way to display image using github markdown:--->
+<!---alternative way to display image using github markdown:--->
 
 <!---![pico8](https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png)--->
 
