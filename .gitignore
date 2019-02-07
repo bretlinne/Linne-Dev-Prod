@@ -12,6 +12,9 @@ Thumbs.db
 *.zip
 npm-debug.log# IDE Files
 
+#python byte-code files
+.pyc
+
 # Logs
 logs
 *.log
