@@ -66,6 +66,8 @@ As long as the png is authored in these specific 16 colors, this script will wor
 | ![](https://placehold.it/15/ed1b51?text=+)|ed1b51  | ![](https://placehold.it/15/faa21b?text=+)|faa21b  | ![](https://placehold.it/15/f7ec2f?text=+)|f7ec2f  | ![](https://placehold.it/15/5dbb4d?text=+)|5dbb4d  |
 | ![](https://placehold.it/15/51a6dc?text=+)|51a6dc  | ![](https://placehold.it/15/83769c?text=+)|83769c  | ![](https://placehold.it/15/f176a6?text=+)|f176a6  | ![](https://placehold.it/15/fcccab?text=+)|fcccab  |
 
+[Photoshop Pico-8 Swatch File](https://drive.google.com/open?id=1CbiOMOtlxwxnVHDyOTP-InKKue_xtE3y)
+
 ## Why?
 Using this, you can start embedding larger graphics into the pico-8's code
 which don't use up the very limited sprite real estate.  For instance a title
