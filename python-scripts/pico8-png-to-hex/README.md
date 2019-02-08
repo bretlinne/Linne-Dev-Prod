@@ -64,10 +64,10 @@ f03c15/000000?text=+
 
 |        |        |        |        |        |        |        |        |
 |:------:|:-------|:------:|:-------|:------:|:-------|:------:|:-------|
-| ![](https://placehold.it/15/000000)|000000  | [](https://placehold.it/15/1c2b53)|1c2b53  | [](https://placehold.it/15/7f2454)|7f2454  | [](https://placehold.it/15/008751)|008751  |
-| ![](https://placehold.it/15/ab5236)|ab5236  | [](https://placehold.it/15/60584f)|60584f  | [](https://placehold.it/15/c3c3c6)|c3c3c6  | [](https://placehold.it/15/fff1e9)|fff1e9  |
-| ![](https://placehold.it/15/ed1b51)|ed1b51  | [](https://placehold.it/15/faa21b)|faa21b  | [](https://placehold.it/15/f7ec2f)|f7ec2f  | [](https://placehold.it/15/5dbb4d)|5dbb4d  |
-| ![](https://placehold.it/15/51a6dc)|51a6dc  | [](https://placehold.it/15/83769c)|83769c  | [](https://placehold.it/15/f176a6)|f176a6  | [](https://placehold.it/15/fcccab)|fcccab  |
+| ![](https://placehold.it/15/000000)|000000  | ![](https://placehold.it/15/1c2b53)|1c2b53  | ![](https://placehold.it/15/7f2454)|7f2454  | ![](https://placehold.it/15/008751)|008751  |
+| ![](https://placehold.it/15/ab5236)|ab5236  | ![](https://placehold.it/15/60584f)|60584f  | ![](https://placehold.it/15/c3c3c6)|c3c3c6  | ![](https://placehold.it/15/fff1e9)|fff1e9  |
+| ![](https://placehold.it/15/ed1b51)|ed1b51  | ![](https://placehold.it/15/faa21b)|faa21b  | ![](https://placehold.it/15/f7ec2f)|f7ec2f  | ![](https://placehold.it/15/5dbb4d)|5dbb4d  |
+| ![](https://placehold.it/15/51a6dc)|51a6dc  | ![](https://placehold.it/15/83769c)|83769c  | ![](https://placehold.it/15/f176a6)|f176a6  | ![](https://placehold.it/15/fcccab)|fcccab  |
 
 ## Why?
 Using this, you can start embedding larger graphics into the pico-8's code
