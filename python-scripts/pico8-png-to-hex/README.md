@@ -57,7 +57,7 @@ the system's 16-color palette.
 
 As long as the png is authored in these specific 16 colors, this script will work.
 
-| Pico-8 Palette |                |                |                |
+| Pico-8 Palette| |        |        |        |        |        |        |
 |:------:|:-------|:------:|:-------|:------:|:-------|:------:|:-------|
 | &#9608;|000000  | &#9608;|1c2b53  | &#9608;|7f2454  | &#9608;|008751  |
 | &#9608;|ab5236  | &#9608;|60584f  | &#9608;|c3c3c6  | &#9608;|fff1e9  |
