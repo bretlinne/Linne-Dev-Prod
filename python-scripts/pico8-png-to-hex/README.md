@@ -70,8 +70,9 @@ As long as the png is authored in these specific 16 colors, this script will wor
 [Photoshop Pico-8 Swatch File](https://drive.google.com/open?id=1CbiOMOtlxwxnVHDyOTP-InKKue_xtE3y)
 
 Install the swatch in photoshop:
-<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow01.PNG" alt="drawing" width="512"/> 
-<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow02.png" alt="drawing" width="512"/> 
+
+<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow01.PNG" alt="drawing" width="360"/> 
+<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow02.png" alt="drawing" width="360"/> 
 
 
 ## Why?
