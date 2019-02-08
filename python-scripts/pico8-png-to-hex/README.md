@@ -35,6 +35,7 @@ support files:
 | **linneXtermColors.py**   | defines colors for making nice output    |
 | **getch.py**              | provides faster UX                       |
 | **p8Help.py**             | all text and function for -h             |
+| **p8Test.png**        | a test .png                              |
 
 ## Background
 The Pico-8 is a fantasy console and IDE.  It emulates a console like a GameBoy 
