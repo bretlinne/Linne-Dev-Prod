@@ -1,5 +1,5 @@
-# Pico-8 Png-to-Hex Converter <img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png" alt="drawing" width="64"/> 
-
+# Pico-8 Png-to-Hex Converter
+<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png" alt="drawing" width="64"/> 
 
 [Pico-8 Website](https://www.lexaloffle.com/pico-8.php "Go get Pico-8--only $15!")
 
@@ -19,13 +19,21 @@ in the right format if kajiggered properly.
 
 ## Usage
 1) Download the repo
-2) Test it using 'python pico8-png-to-hex.py ./p8Test.png'
-3) it should spit out a string like so: '0123456789abcdef'
+2) Test it using `python pico8-png-to-hex.py ./p8Test.png`
+3) it should spit out a string like so: `0123456789abcdef`
 4) this would be copied and then pasted into the Pico-8 for usage in 
 ...a draw function.  I've included an example draw function in the HELP
 ...and an example of how to build a data structure to store this data.
 
-The executable: 
+The executable: `pico8-png-to-hex.py`
+support files:
+| Filename              | Purpose                                  |
+| --------------------- |:----------------------------------------:|
+| **pngGraphicMethods.py**  | contains all graphic methods and classes |
+| **linneXtermColors.py**   | defines colors for making nice output    |
+| **getch.py**              | provides faster UX                       |
+| **p8Help.py**             | all text and function for -h             |
+
 ## Background
 The Pico-8 is a fantasy console and IDE.  It emulates a console like a GameBoy 
 color which **_could_** have existed in the 90's or so, but was never actually 
