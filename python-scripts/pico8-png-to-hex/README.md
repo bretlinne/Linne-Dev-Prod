@@ -11,7 +11,7 @@
 * [Purpose](#Purpose)
 * [Usage](#Usage)
 * [Background](#Background)
-* [Palette](#Palette)
+* [Palette  - **IMPORTANT!**](#Palette)
 * [Why](#Why)
 
 ## Purpose
@@ -57,7 +57,7 @@ created.  This system is **very** restrained in its capabilities.
 Within these limits, a great deal can be done and it's a fantastic little game engine
 to learn to build games or prototype ideas.
 
-## Palette - **IMPORTANT!**
+## Palette
 To convert a .png file to a string of hex characters the Pico-8 can understand, 
 you must author it using the EXACT hexadecimal color codes which correspond to
 the system's 16-color palette.  
