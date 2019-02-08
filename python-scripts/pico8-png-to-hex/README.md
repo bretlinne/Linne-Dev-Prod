@@ -7,6 +7,13 @@
 
 <!---![pico8](https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png)--->
 
+## Table of Contents
+* [Purpose](#Purpose)
+* [Usage](#Usage)
+* [Background](#Background)
+* [Palette](#Palette - **IMPORTANT!**)
+* [Why](#Why?)
+
 ## Purpose
 This script stretches the limits of the Pico-8's graphic capabilities.  
 Only 256 8x8 pixel sprite tiles can be created and stored in the IDE.  This is 
