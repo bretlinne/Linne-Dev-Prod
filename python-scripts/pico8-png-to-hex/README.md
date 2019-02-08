@@ -71,8 +71,8 @@ As long as the png is authored in these specific 16 colors, this script will wor
 In Photoshop,
 
 Install the swatch in photoshop:
-![1st](https://drive.google.com/open?id=1fyfcPSRN7ttvhGBQoAcG2x4_X84gcUWh)
-![2nd](https://drive.google.com/open?id=17-S76UscyXxWsL7zzXteps3KkUxJsysr)
+![1st](https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow01.PNG)
+![2nd](https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/psHow02.PNG)
 
 ## Why?
 Using this, you can start embedding larger graphics into the pico-8's code
