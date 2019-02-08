@@ -57,6 +57,8 @@ the system's 16-color palette.
 
 As long as the png is authored in these specific 16 colors, this script will work.
 
+&#219;
+
 ## Why?
 Using this, you can start embedding larger graphics into the pico-8's code
 which don't use up the very limited sprite real estate.  For instance a title
