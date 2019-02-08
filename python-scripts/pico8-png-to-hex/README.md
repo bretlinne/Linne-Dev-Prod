@@ -26,7 +26,9 @@ in the right format if kajiggered properly.
 ...and an example of how to build a data structure to store this data.
 
 The executable: `pico8-png-to-hex.py`
+
 support files:
+
 | Filename              | Purpose                                  |
 | --------------------- |:----------------------------------------:|
 | **pngGraphicMethods.py**  | contains all graphic methods and classes |
