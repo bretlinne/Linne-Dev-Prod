@@ -44,6 +44,11 @@ def printHelp():
     If the path is in the same directory as the script it would be thus:
     {0}pico8-png-to-hex.py {1}./foo.png{2}
     
+    TEST IT OUT:
+    There is a file "p8Test.png" in this project folder.  Try that:
+    {0}pico8-png-to-hex.py {1}./p8Test.png{2}
+        Expected output: 0123456789abcdef
+        
     LIMITATIONS:
     specifically constructed for the pico-8 palette.  Image can be drawn from 
     anywhere, but the values of the colors must correspond to these:

@@ -13,7 +13,7 @@ Thumbs.db
 npm-debug.log# IDE Files
 
 #python byte-code files
-.pyc
+*.pyc
 
 # Logs
 logs
