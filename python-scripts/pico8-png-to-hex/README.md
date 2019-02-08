@@ -59,13 +59,14 @@ As long as the png is authored in these specific 16 colors, this script will wor
 
 ### Pico-8 Palette
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+[block]: (https://placehold.it/15/f03c15/000000?text=+)
 
 |        |        |        |        |        |        |        |        |
 |:------:|:-------|:------:|:-------|:------:|:-------|:------:|:-------|
 | ![#000000](https://placehold.it/15/000000/000000?text=+)|000000  | &#9608;|1c2b53  | &#9608;|7f2454  | &#9608;|008751  |
 | ![#ab5236](https://placehold.it/15/ab5236/000000?text=+)|ab5236  | &#9608;|60584f  | &#9608;|c3c3c6  | &#9608;|fff1e9  |
 | ![#ed1b51](https://placehold.it/15/ed1b51/000000?text=+)|ed1b51  | &#9608;|faa21b  | &#9608;|f7ec2f  | &#9608;|5dbb4d  |
-| ![#51a6dc](https://placehold.it/15/51a6dc/000000?text=+)|51a6dc  | &#9608;|83769c  | &#9608;|f176a6  | &#9608;|fcccab  |
+| ![#51a6dc](https://placehold.it/15/000000/000000?text=+)|51a6dc  | &#9608;|83769c  | &#9608;|f176a6  | &#9608;|fcccab  |
 
 ## Why?
 Using this, you can start embedding larger graphics into the pico-8's code
