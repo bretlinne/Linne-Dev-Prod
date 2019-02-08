@@ -11,7 +11,7 @@
 * [Purpose](#Purpose)
 * [Usage](#Usage)
 * [Background](#Background)
-* [Palette](#Palette - **IMPORTANT!**)
+* [Palette](#Palette)
 * [Why](#Why?)
 
 ## Purpose
