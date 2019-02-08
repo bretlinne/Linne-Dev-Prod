@@ -58,9 +58,6 @@ the system's 16-color palette.
 As long as the png is authored in these specific 16 colors, this script will work.
 
 ### Pico-8 Palette
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-[block]: (https://placehold.it/15/)
-f03c15/000000?text=+
 
 |        |        |        |        |        |        |        |        |
 |:------:|:-------|:------:|:-------|:------:|:-------|:------:|:-------|
