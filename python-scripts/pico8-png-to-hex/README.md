@@ -12,7 +12,7 @@
 * [Usage](#Usage)
 * [Background](#Background)
 * [Palette](#Palette)
-* [Why](#Why?)
+* [Why](#Why)
 
 ## Purpose
 This script stretches the limits of the Pico-8's graphic capabilities.  
