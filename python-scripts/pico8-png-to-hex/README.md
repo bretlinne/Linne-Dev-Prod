@@ -1,5 +1,5 @@
-# Pico-8 Png-to-Hex Converter
-<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png" alt="drawing" width="64"/> 
+# Pico-8 Png-to-Hex Converter <img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png" alt="drawing" width="64"/> 
+
 
 [Pico-8 Website](https://www.lexaloffle.com/pico-8.php "Go get Pico-8--only $15!")
 
@@ -25,6 +25,7 @@ in the right format if kajiggered properly.
 ...a draw function.  I've included an example draw function in the HELP
 ...and an example of how to build a data structure to store this data.
 
+The executable: 
 ## Background
 The Pico-8 is a fantasy console and IDE.  It emulates a console like a GameBoy 
 color which **_could_** have existed in the 90's or so, but was never actually 
@@ -46,7 +47,7 @@ the system's 16-color palette.
 As long as the png is authored in these specific 16 colors, this script will work.
 
 ## Why?
-using this, you can start embedding larger graphics into the pico-8's code
+Using this, you can start embedding larger graphics into the pico-8's code
 which don't use up the very limited sprite real estate.  For instance a title
 image which might be 8 tiles wide and 6 tiles high would take up 48 of your 
 256 total tiles!  If you encode the png into a data string, you just drop it 
