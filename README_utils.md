@@ -11,12 +11,7 @@ Removing files in Linux doesn't work the same as Windows; the files don't go
 into a Trash/Recycle Bin that accumulates.  Although some Linux desktop enviro-
 nments utilitize this, such as the __KDE__ Desktop.
 
-Part-way through writing this script I learned it's not necessary as POSIX-
-based systems don't really have a Recycle/Trash bin that fills up like in 
-Windows machines.
-
-I finished it anyway as a learning exercise.  
-
-USAGE:  python emptyTrash.py
-        python3 emptyTrash.py   -- if you have specified Python 3.x as such
+### USAGE:  
+- python emptyTrash.py
+- python3 emptyTrash.py   -- if you have specified Python 3.x as such
 
