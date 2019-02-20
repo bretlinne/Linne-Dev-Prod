@@ -6,9 +6,13 @@ and rm-ing a large file and worried I was filling up the recycle bin.  Part-way
 through writing this script I learned it's not necessary as POSIX-based systems
 don't really have a Recycle/Trash bin that fills up like in Windows machines.
 
-I finished it anyway as a learning exercise.  
+I finished it anyway as a learning exercise.  Apparently the KDE linux desktop
+uses a recycle/trash bin like this and this will work there.  
 
-USAGE: python emptyTrash.py
+NEED TO TEST IN KDE ENVIRONMENT
+
+USAGE:  python emptyTrash.py
+        python3 emptyTrash.py   -- if you have specified Python 3.x as such
 """
 import subprocess           # invoke a shell sub process
 from time import sleep      # create a slight delay for UX
