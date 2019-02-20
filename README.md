@@ -18,3 +18,4 @@ Finished tools, scripts, apps, games; ready for sharing or showing.
 11.  setup-new-box-scripts / provision-git            MOVED
 12.  ~~setup-new-box-scripts / setup-geany~~              DONE
 13.  setup-python-modules 
+14.  ~~emptyTrash.py~~                                  DONE
