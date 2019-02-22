@@ -19,3 +19,4 @@ Finished tools, scripts, apps, games; ready for sharing or showing.
 12.  ~~setup-new-box-scripts / setup-geany~~              DONE
 13.  setup-python-modules 
 14.  ~~emptyTrash.py~~                                  DONE
+15.  ~~setupVSCode.py~~                                 DONE
