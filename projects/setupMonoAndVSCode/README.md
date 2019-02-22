@@ -1,5 +1,6 @@
 # Setup Mono or VSCode on POSIX-based OS
 <img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/icons/vscode.ico" alt="vscode" width="64"/>
+<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/icons/monodevelop.ico" alt="vscode" width="64"/>
 [VSCode Website](https://code.visualstudio.com/ "MS VSCode")
 
 ## Table of Contents

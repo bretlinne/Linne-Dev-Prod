@@ -1,5 +1,5 @@
 # Pico-8 Png-to-Hex Converter
-<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/pico8.png" alt="drawing" width="64"/> 
+<img src="https://github.com/bretlinne/Linne-Dev-Prod/blob/master/resources/icons/pico8.png" alt="drawing" width="64"/> 
 
 [Pico-8 Website](https://www.lexaloffle.com/pico-8.php "Go get Pico-8--only $15!")
 
