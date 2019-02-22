@@ -1,4 +1,5 @@
-"""Helper function to display help text if user doesn't know how to use the 
+"""
+Helper function to display help text if user doesn't know how to use the 
 script, or enters a help flag of --help, -help, --h, or -h
     USAGE:
         help invoked either by user calling script with 0 or 2+ args, or 
