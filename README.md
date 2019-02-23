@@ -1,7 +1,23 @@
 # Linne-Dev-Prod
 Finished tools, scripts, apps, games; ready for sharing or showing.
 
-## This repo is partly populated.  Still working on it.
+__This repo is partly populated.  Still working on it.__
+
+## Repo Contents
+* [new-machine-setup directory](#new-machine-setup)
+* [Projects Directory](#Projects)
+
+## new-machine-setup
+Scripts for automating installation tasks standard to setting up a new machine.  
+
+Mostly for my own usage, and mostly work on Ubuntu.  I plan to expand their range
+to work more cross-platform and eventually use Ansible to run certain playbooks of 
+setup scripts.
+
+## projects
+More complicated projects requiring their own folders.  These are not necessarily
+common to all environments and serve more specialized needs.
+
 
 - scripts to move in:
 ---------------------
