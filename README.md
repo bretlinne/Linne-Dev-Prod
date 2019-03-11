@@ -24,7 +24,8 @@ Various scripts that are have specific uses in a variety of cases.
 * emptyTrash.py - empties trash on linux machines
 * detectOS.py   - return info about OS of the machine
 
-- scripts to move in:
+
+# scripts to move in from WIP:
 ---------------------
 1.  ~~pico8-png-hex.py~~                                 DONE
 2.  c-scripts-to-ref / elf-tagger
