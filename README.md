@@ -5,7 +5,8 @@ __This repo is partly populated.  Still working on it.__
 
 ## Repo Contents
 * [new-machine-setup directory](#new-machine-setup)
-* [Projects Directory](#Projects)
+* [Projects Directory](#projects)
+* [Utilities Directory](#utilities)
 
 ## new-machine-setup
 Scripts for automating installation tasks standard to setting up a new machine.  
@@ -18,6 +19,10 @@ setup scripts.
 More complicated projects requiring their own folders.  These are not necessarily
 common to all environments and serve more specialized needs.
 
+## utilities
+Various scripts that are have specific uses in a variety of cases.  
+* emptyTrash.py - empties trash on linux machines
+* detectOS.py   - return info about OS of the machine
 
 - scripts to move in:
 ---------------------
